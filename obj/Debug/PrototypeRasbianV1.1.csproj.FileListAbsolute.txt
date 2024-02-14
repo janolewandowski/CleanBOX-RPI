@@ -1,0 +1,75 @@
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\PrototypeRasbianV1.1.exe.config
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\PrototypeRasbianV1.1.exe
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\PrototypeRasbianV1.1.pdb
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1._1.Properties.Resources.resources
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1.1.csproj.GenerateResource.cache
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1.1.csproj.CoreCompileInputs.cache
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1.1.exe
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1.1.pdb
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1._1.CleanOS.resources
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1._1.Cleanbox.resources
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Buffers.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Memory.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Text.Json.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.ValueTuple.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Buffers.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Memory.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Text.Json.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.ValueTuple.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1.1.csproj.CopyComplete
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Device.Gpio.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Device.Gpio.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Franek\Desktop\.Net projects\SmartHospital\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1.1.csproj.AssemblyReference.cache
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\PrototypeRasbianV1.1.exe.config
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\PrototypeRasbianV1.1.exe
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\PrototypeRasbianV1.1.pdb
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Buffers.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Device.Gpio.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Memory.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Text.Json.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.ValueTuple.dll
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Buffers.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Device.Gpio.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Memory.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Text.Json.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\bin\Debug\System.ValueTuple.xml
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1._1.Cleanbox.resources
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1._1.CleanOS.resources
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1._1.Properties.Resources.resources
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1.1.csproj.GenerateResource.cache
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1.1.csproj.CoreCompileInputs.cache
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1.1.exe
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1.1.pdb
+C:\Users\janol\Desktop\PrototypeRasbianV1.1\obj\Debug\PrototypeRasbianV1.1.csproj.AssemblyReference.cache
